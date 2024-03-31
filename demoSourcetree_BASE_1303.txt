@@ -2,5 +2,4 @@ step 1: stage files wich will be push to server
 step 2: commit these files
 step 3: click push
 
-conflict chỗ này rồi hahahkkkkkkkkk
-
+conflict chỗ này rồi
