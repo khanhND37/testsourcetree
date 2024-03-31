@@ -1,2 +1,6 @@
 hahahhha
+<<<<<<< .merge_file_it9fKl
 tạo conflict
+=======
+co tinh tao conflict de test haha132
+>>>>>>> .merge_file_noI90Z
